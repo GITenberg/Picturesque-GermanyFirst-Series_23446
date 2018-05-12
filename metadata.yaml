@@ -1,0 +1,40 @@
+_repo: Picturesque-GermanyFirst-Series_23446
+_version: 0.1.0
+contributor:
+  illustrators:
+  - agent_name: Bruckmann, F.
+    gutenberg_agent_id: '25845'
+    url: http://www.gutenberg.org/2009/agents/25845
+  - agent_name: Nitsche, Julius
+    gutenberg_agent_id: '25844'
+    url: http://www.gutenberg.org/2009/agents/25844
+covers:
+- cover_type: archival
+  image_path: 23446-h/images/cover_th.jpg
+creator:
+  author:
+    agent_name: Anonymous
+    alias: Anonyme
+    gutenberg_agent_id: '216'
+    url: http://www.gutenberg.org/2009/agents/216
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Anonymity
+    - http://www.gutenberg.org/browse/authors/u#a49
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2007-11-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23446'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DD'
+- !lcsh 'Painting -- Germany'
+- !lcsh 'Germany -- Pictorial works'
+title: 'Picturesque Germany
+
+  First Series'
+url: http://www.gutenberg.org/ebooks/23446
